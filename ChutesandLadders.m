@@ -1,6 +1,9 @@
 %Chutes and Ladders
 %written by EBG 12/3/2014
 
+%The MIT License (MIT)
+%Copyright (c) 2016 Evan B. Goldstein
+
 clear all
 close all
 clc
